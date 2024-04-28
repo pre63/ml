@@ -1,0 +1,8 @@
+gym
+numpy
+ipykernel
+torch
+torchvision
+matplotlib
+gym[all]
+gym[classic_control]
