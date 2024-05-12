@@ -1,0 +1,12 @@
+torch
+torchvision
+scikit-learn
+matplotlib
+scikit-learn
+coremltools
+numpy
+ipykernel
+requests
+pandas
+setuptools
+wandb
