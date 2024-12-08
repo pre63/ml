@@ -1,8 +1,10 @@
 gym
 numpy
+pandas
 ipykernel
 torch
 torchvision
 matplotlib
-gym[all]
-gym[classic_control]
+gymnasium
+gymnasium[classic-control]
+gymnasium[box2d]
